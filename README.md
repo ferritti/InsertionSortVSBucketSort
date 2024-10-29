@@ -1,4 +1,4 @@
-# Sorting Algorithm Comparison: Insertion Sort vs. Bucket Sort
+# Insertion Sort vs. Bucket Sort
 
 This repository contains a Jupyter Notebook dedicated to analyzing and comparing the performance of two popular sorting algorithms: **Insertion Sort** and **Bucket Sort**. Each algorithm has unique properties and performance characteristics, making them suitable for specific types of datasets and use cases.
 
