@@ -12,7 +12,6 @@ The notebook compares **Insertion Sort** and **Bucket Sort** by measuring their 
 To test the sorting algorithms under various conditions, we use four types of lists:
 - **Random list**: Elements are generated randomly.
 - **Sorted list**: Elements are pre-sorted in ascending order.
-- **Randomly shuffled sorted list**: Elements are sorted first, then shuffled randomly.
 - **Reverse sorted list**: Elements are sorted in descending order.
 
 ### Testing Process
